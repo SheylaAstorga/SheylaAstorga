@@ -1,6 +1,6 @@
 ### Hola , soy Sheyla luciana astorga 👋
 
- ###👩‍💻Acerca de mi..
+ 👩‍💻Acerca de mi..
  
 -Recientemente me gradué de la Escuela de Programación Rolling Code, donde adquirí una sólida formación en Desarrollador Web Full-Stack. Donde adquirí habilidades prácticas en diversos lenguajes de programación, herramientas y metodologías utilizadas en la industria. Estoy entusiasmado por aplicar lo que he aprendido en proyectos desafiantes y contribuir al mundo del desarrollo Web.
 

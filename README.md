@@ -1,7 +1,5 @@
 ### Hola , soy Sheyla luciana astorga 👋
 
-<!--
-**SheylaAstorga/SheylaAstorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Acerca de mí...
 Here are some ideas to get you started:
  👩‍💻Acerca de mi..
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 También puedes contactarme por correo electrónico en [sheylaastorga1998@gmail.com].
 ¡Estoy disponible para charlar sobre proyectos, colaboraciones o cualquier otra consulta relacionada con la programación!
 - ⚡En mis tiempos libres ;Disfruto explorando nuevas tecnologías y creando proyectos personales. 
--->

@@ -2,7 +2,7 @@
 
  👩‍💻Acerca de mi..
  
--🎓 Estudiante de la Escuela de Programación Rolling Code donde me estoy especializando en Desarrollo Web Full-Stack.
+-🎓 Egresada de la Escuela de Programación Rolling Code donde me especialice en Desarrollo Web Full-Stack MERN.
 
 - 🔭 Me encuentro colaborando en diversos proyectos, con compañeros y amigos. Permitiendo desarrollar mis habilidades de trabajo en equipo, comunicación y resolución de problemas en un entorno colaborativo.
  

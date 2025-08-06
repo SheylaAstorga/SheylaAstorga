@@ -2,22 +2,23 @@
 
 <h1 align="center">⭐Hola, soy Sheyla Luciana Astorga ⭐</h1>
 
+
 👩‍💻 Acerca de mí
 
-🎓 Actualmente soy estudiante de la carrera Tecnicatura Superior en Programación en la UTN, donde sigo ampliando mis conocimientos y habilidades en el desarrollo de software.
+🎓 Actualmente curso la Tecnicatura Superior en Programación en la UTN, donde continúo fortaleciendo mis conocimientos en desarrollo de software y resolución de problemas.
 
-🧑‍💻 Egresada de la Escuela de Programación Rolling Code, con especialización en Desarrollo Web Full-Stack MERN.
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+🧑‍💻 Egresada de la Escuela de Programación Rolling Code, con especialización en Desarrollo Web Full-Stack (MERN).
+
+<img align="right" alt="GIF" height="160px" style="margin-left: 15px;"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-🔭 Participo activamente en diversos proyectos colaborativos junto a compañeros y amigos, lo que me permite desarrollar habilidades como el trabajo en equipo, la comunicación efectiva y la resolución de problemas en entornos reales.
+🔭 Participo en proyectos colaborativos junto a otros desarrolladores, potenciando habilidades como trabajo en equipo, comunicación efectiva y metodologías ágiles.
 
-🌱 Mi objetivo es seguir creciendo profesionalmente, mantenerme actualizada con las últimas tendencias tecnológicas y aplicar ese conocimiento en mis proyectos para generar soluciones innovadoras.
+🌱 Aspiro a crecer como desarrolladora full-stack, aprendiendo día a día y aplicando mi conocimiento en proyectos que desafíen mis límites y me permitan evolucionar profesionalmente.
 
-📫 Podés enviarme un mensaje directo aquí en GitHub o contactarme por correo electrónico a sheylaastorga1998@gmail.com.
-¡Estoy abierta a propuestas, colaboraciones o cualquier consulta relacionada con programación!
 
 🤓 En mis tiempos libres disfruto explorando nuevas tecnologías, creando proyectos personales y aprendiendo sobre temas diversos. También valoro mis momentos de recreación, ejercitándome y desconectando un poco de la pantalla.
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

@@ -3,7 +3,8 @@
 <h1 align="center">⭐Hola, soy Sheyla Luciana Astorga ⭐</h1>
 
 
-<img alt="GIF" height="160px"src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 👩‍💻 Acerca de mí
 
 🎓 Actualmente curso la Tecnicatura Superior en Programación en la UTN, donde continúo fortaleciendo mis conocimientos en desarrollo de software

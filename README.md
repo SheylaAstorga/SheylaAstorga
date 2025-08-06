@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=SheylaAstorga)
 
-Hola, soy Sheyla Luciana Astorga 👋
+<h1 align="center">⭐Hola, soy Sheyla Luciana Astorga ⭐</h1>
+
 👩‍💻 Acerca de mí
 
 🎓 Actualmente soy estudiante de la carrera Tecnicatura Superior en Programación en la UTN, donde sigo ampliando mis conocimientos y habilidades en el desarrollo de software.

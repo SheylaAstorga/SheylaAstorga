@@ -5,7 +5,8 @@
 
 👩‍💻 Acerca de mí
 
-🎓 Actualmente curso la Tecnicatura Superior en Programación en la UTN, donde continúo fortaleciendo mis conocimientos en desarrollo de software y resolución de problemas.
+🎓 Actualmente curso la Tecnicatura Superior en Programación en la UTN, donde continúo fortaleciendo mis conocimientos en desarrollo de software
+y resolución de problemas.
 
 🧑‍💻 Egresada de la Escuela de Programación Rolling Code, con especialización en Desarrollo Web Full-Stack (MERN).
 
@@ -14,7 +15,8 @@
      style="margin-left: 25px; margin-top: 5px;" />
 
 
-🔭 Participo en proyectos colaborativos junto a otros desarrolladores, potenciando habilidades como trabajo en equipo, comunicación efectiva y metodologías ágiles.
+🔭 Participo en proyectos colaborativos junto a otros desarrolladores, potenciando habilidades como trabajo en equipo, 
+comunicación efectiva y metodologías ágiles.
 
 🌱 Aspiro a crecer como desarrolladora full-stack, aprendiendo día a día y aplicando mi conocimiento en proyectos que desafíen mis límites y me permitan evolucionar profesionalmente.
 

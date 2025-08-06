@@ -12,16 +12,10 @@ y resolución de problemas.
 
 🧑‍💻 Egresada de la Escuela de Programación Rolling Code, con especialización en Desarrollo Web Full-Stack (MERN).
 
-
-
-
-
-
 🔭 Participo en proyectos colaborativos junto a otros desarrolladores, potenciando habilidades como trabajo en equipo, 
 comunicación efectiva y metodologías ágiles.
 
 🌱 Aspiro a crecer como desarrolladora full-stack, aprendiendo día a día y aplicando mi conocimiento en proyectos que desafíen mis límites y me permitan evolucionar profesionalmente.
-
 
 🤓 En mis tiempos libres disfruto explorando nuevas tecnologías, creando proyectos personales y aprendiendo sobre temas diversos. También valoro mis momentos de recreación, ejercitándome y desconectando un poco de la pantalla.
 
@@ -38,7 +32,7 @@ comunicación efectiva y metodologías ágiles.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-
+![Python]((https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white))
 
 
 ### ⚙️ &nbsp;GitHub Analytics

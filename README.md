@@ -10,10 +10,8 @@ y resolución de problemas.
 
 🧑‍💻 Egresada de la Escuela de Programación Rolling Code, con especialización en Desarrollo Web Full-Stack (MERN).
 
-<div style="float: right; padding-left: 20px;">
   <img alt="GIF" height="160px" 
        src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-</div>
 
 
 

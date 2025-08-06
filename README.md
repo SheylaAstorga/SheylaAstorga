@@ -9,7 +9,9 @@
 
 🧑‍💻 Egresada de la Escuela de Programación Rolling Code, con especialización en Desarrollo Web Full-Stack (MERN).
 
-<img align="right" alt="GIF" height="160px"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="margin-left: 15px" />
+<img align="right" alt="GIF" height="160px" 
+     src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" 
+     style="margin-left: 25px; margin-top: 5px;" />
 
 
 🔭 Participo en proyectos colaborativos junto a otros desarrolladores, potenciando habilidades como trabajo en equipo, comunicación efectiva y metodologías ágiles.

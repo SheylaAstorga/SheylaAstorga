@@ -13,7 +13,7 @@ Hola, soy Sheyla Luciana Astorga 👋
 ¡Estoy abierta a propuestas, colaboraciones o cualquier consulta relacionada con programación!
 
 🤓 En mis tiempos libres disfruto explorando nuevas tecnologías, creando proyectos personales y aprendiendo sobre temas diversos. También valoro mis momentos de recreación, ejercitándome y desconectando un poco de la pantalla.
-
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

@@ -43,3 +43,22 @@ comunicación efectiva y metodologías ágiles.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SheylaAstorga&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 📫 &nbsp;My Contacts
+
+  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
+  [![LinkedIn Badge](https://img.shields.io/badge/-Sheyla_Luciana_Astorga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sheyla-luciana-astorga-40013a248)](https://www.linkedin.com/in/sheyla-luciana-astorga-40013a248)&nbsp;
+
+  [![Gmail Badge](https://img.shields.io/badge/-sheylaastorga1998@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sheylaastorga1998@gmail.com)&nbsp;
+
+  [![AniList Badge](https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
+
+</div>
+
+
+<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+

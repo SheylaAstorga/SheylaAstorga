@@ -46,16 +46,13 @@ comunicación efectiva y metodologías ágiles.
 
 ## 📫 &nbsp;Contácto
 
-<a href="https://www.linkedin.com/in/sheyla-luciana-astorga-40013a248" target="_blank" rel="noopener noreferrer">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheyla-luciana-astorga-40013a248" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Sheyla_Luciana_Astorga-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:sheylaastorga1998@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-sheylaastorga1998@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sheylaastorga1998@gmail.com">
-    <img src="https://img.shields.io/badge/-sheylaastorga1998@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
 
